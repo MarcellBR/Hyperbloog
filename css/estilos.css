@@ -39,3 +39,16 @@ body
 
     font-size: 70px;
 }
+
+#post
+{
+    padding: 1em;
+}
+
+#footer
+{
+    background: darkblue;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+}
